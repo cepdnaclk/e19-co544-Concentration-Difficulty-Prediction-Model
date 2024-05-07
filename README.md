@@ -1,7 +1,7 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
+# Concentration Difficulty Prediction Model
 ___
 
-## Please refer the instructions in below URL:
+## Goal
 
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
+If you feel you can't concentrate on something, from this model you can verify that whether your social media usage affects that!
