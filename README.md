@@ -54,20 +54,7 @@ The dataset used in this project was sourced from [Kaggle](https://www.kaggle.co
 6. **Model Selection**: Choosing the best-performing model based on evaluation metrics.
 7. **Deployment**: Deploying the model for real-world use.
 
-## Installation
 
-To run this project, you will need Python and the following libraries:
-
-- pandas
-- numpy
-- scikit-learn
-- matplotlib
-- seaborn
-
-You can install the required libraries using pip:
-
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
 
 
 
