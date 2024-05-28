@@ -7,4 +7,4 @@ Gemfile
 
 # Add your own files to be ignored from git in here
 
-CO544projectVenv/   # This is a directory ( The virtual environment)
+CO544ProjectVenv/   # This is a directory ( The virtual environment)
