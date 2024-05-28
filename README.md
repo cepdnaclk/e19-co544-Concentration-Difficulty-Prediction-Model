@@ -54,8 +54,18 @@ The dataset used in this project was sourced from [Kaggle](https://www.kaggle.co
 6. **Model Selection**: Choosing the best-performing model based on evaluation metrics.
 7. **Deployment**: Deploying the model for real-world use.
 
+## Contributing
+ We welcome contributions to improve this project. If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Links
+
 
  [Project Repository](https://github.com/cepdnaclk/e19-co544-Concentration-Difficulty-Prediction-Model)
+ [Department of Computer Engineering](https://www.ce.pdn.ac.lk/)
+ [University of Peradeniya](https://eng.pdn.ac.lk/)
 
 
 
