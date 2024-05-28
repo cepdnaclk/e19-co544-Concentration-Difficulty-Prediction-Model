@@ -64,7 +64,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 
  - [Project Repository](https://github.com/cepdnaclk/e19-co544-Concentration-Difficulty-Prediction-Model)
- - [project page](https://github.com/SethmaNW/e19-co544-Concentration-Difficulty-Prediction-Model/blob/main/doc/index.html)
+ - [project page](https://github.com/SethmaNW/e19-co544-Concentration-Difficulty-Prediction-Model/blob/main/docs/index.html)
  - [Department of Computer Engineering](https://www.ce.pdn.ac.lk/)
  - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
