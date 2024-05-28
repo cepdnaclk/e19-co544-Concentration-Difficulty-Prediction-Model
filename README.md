@@ -55,6 +55,10 @@ The dataset used in this project was sourced from [Kaggle](https://www.kaggle.co
 7. **Deployment**: Deploying the model for real-world use.
 
 
+ [Project Repository](https://github.com/cepdnaclk/e19-co544-Concentration-Difficulty-Prediction-Model)
+
+
+
 
 
 
