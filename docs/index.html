@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en"> 
+<head>
+    <meta charset="utf-8">
+    <title>Concentration-Difficulty-Prediction-Model</title>
+    <meta name="description" content="Documentation">
+    <meta name="author" content="Author">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- Including CSS files from CDNs -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    
+    <!-- Custom CSS files -->
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    
+    <!-- Modernizr for HTML5 and CSS3 feature detection -->
+    <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1>Concentration Difficulty Prediction Model</h1>
+        <img src="images/project_image.png" alt="Project Image" width="500">
+
+    </header>
+
+    <section id="overview">
+        <h2>Overview</h2>
+        <p>This project aims to develop a machine learning model to predict whether individuals can concentrate on their studies based on their social media usage. The goal is to identify key factors that contribute to concentration difficulties and provide insights that could help mitigate these issues.</p>
+    </section>
+
+    <section id="dataset">
+        <h2>Dataset</h2>
+        <p>The dataset used in this project was sourced from <a href="https://www.kaggle.com/">Kaggle</a>. It contains demographic information and social media usage data of individuals, along with target variables indicating concentration difficulties.</p>
+    </section>
+
+    <section id="features">
+        <h2>Features and Target Variables</h2>
+        <ul>
+            <li><strong>Demographic Information</strong>: Age, gender, relationship status, occupation status, affiliations.</li>
+            <li><strong>Social Media Usage Information</strong>: Whether the participant uses social media, common platforms used, time spent on social media, frequency of use without a specific purpose, frequency of getting distracted, restlessness if not used in a while, validation seeking behavior, worries, depression, comparison behavior, and feelings about comparisons.</li>
+            <li><strong>Target Variables</strong>: Difficulty in concentration, distraction level, and fluctuation in interest in daily activities.</li>
+        </ul>
+    </section>
+
+    <section id="modeling">
+        <h2>Modeling Approach</h2>
+        <p><strong>Data Preprocessing</strong>: Cleaning, handling missing values, encoding categorical variables.</p>
+        <p><strong>Feature Engineering</strong>: Selecting relevant features, creating new features.</p>
+        <p><strong>Model Selection</strong>: Training various machine learning models (e.g., Logistic Regression, Decision Trees, Random Forest, SVM) and selecting the best-performing one.</p>
+        <p><strong>Model Evaluation</strong>: Evaluating model performance using metrics such as accuracy, precision, recall, and F1 score.</p>
+        <p><strong>Deployment</strong>: Deploying the model for real-world use.</p>
+    </section>
+
+    <section id="results">
+        <h2>Results</h2>
+        <p>The best-performing model achieved an accuracy of X% on the test set. Feature importance analysis revealed that time spent on social media and validation seeking behavior were the most influential factors affecting concentration difficulties.</p>
+    </section>
+
+    <section id="usage">
+        <h2>Usage</h2>
+        <ol>
+            <li>Clone the repository:</li>
+            <pre><code>git clone https://github.com/cepdnaclk/e19-co544-Concentration-Difficulty-Prediction-Model.git</code></pre>
+            <li>Navigate to the project directory:</li>
+            <pre><code>cd social-media-concentration-prediction</code></pre>
+            <li>Run the data preprocessing script:</li>
+            <pre><code>python preprocess.py</code></pre>
+            <li>Train the model:</li>
+            <pre><code>python train_model.py</code></pre>
+            <li>Evaluate the model:</li>
+            <pre><code>python evaluate_model.py</code></pre>
+        </ol>
+    </section>
+
+
+    <footer>
+        <p>For more information about the project, please visit the <a href="https://github.com/cepdnaclk/e19-co544-Concentration-Difficulty-Prediction-Model">Project Repository</a> on GitHub.</p>
+        <p>Visit the <a href="https://www.ce.pdn.ac.lk/">University of Peradeniya</a> website for more details.</p>
+    </footer>
+</body>
+</html>
