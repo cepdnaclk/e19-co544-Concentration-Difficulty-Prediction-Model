@@ -1,0 +1,97 @@
+Timestamp,Age,Sex,Relationship Status,Occupation,Social Media User?,Platforms Used,Time Spent,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Target,Difficulty_level
+4/19/2022 0:32:37,38,0,Married,Salaried Worker,Yes,"Twitter, YouTube, Discord, Reddit",1,5,2,1,1,2,2,1,3,2,low
+5/12/2022 20:08:23,18,0,Single,School Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",3,4,5,4,3,5,5,4,3,4,medium
+5/12/2022 10:57:37,27,1,Married,Salaried Worker,Yes,"Facebook, Instagram, YouTube, Pinterest",1,4,2,1,4,3,2,2,3,2,low
+5/11/2022 21:02:15,26,0,Single,Salaried Worker,Yes,"Facebook, Instagram, YouTube, Discord",5,5,5,5,1,5,5,5,5,5,high
+5/12/2022 17:12:26,19,0,Single,University Student,Yes,"Facebook, Twitter, Instagram, YouTube",3,4,2,3,2,4,4,2,2,3,medium
+4/20/2022 10:51:46,20,0,Single,University Student,Yes,"Facebook, Instagram, YouTube",1,5,5,2,4,4,5,3,2,4,medium
+5/11/2022 20:35:00,20,1,Single,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",5,4,5,3,1,5,3,2,3,5,high
+5/12/2022 2:06:39,21,0,Single,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",4,3,2,2,2,4,5,1,3,3,medium
+4/19/2022 2:06:40,21,1,Single,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",3,4,3,4,2,5,4,5,1,4,medium
+5/13/2022 10:05:54,21,1,Single,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Pinterest",5,4,5,3,4,4,4,3,3,4,medium
+4/18/2022 19:41:34,20,0,Single,University Student,No,"Reddit, Pinterest",0,1,1,1,1,1,1,1,1,1,low
+5/11/2022 21:14:26,21,0,Single,School Student,Yes,"Facebook, Instagram, YouTube, Discord, Reddit, Pinterest",3,2,4,2,4,5,4,5,4,4,medium
+5/13/2022 1:16:02,22,1,Single,University Student,Yes,YouTube,4,3,1,2,1,4,4,2,1,3,medium
+5/11/2022 21:45:23,26,0,Single,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Reddit",1,3,4,2,1,4,3,2,2,4,medium
+4/18/2022 20:49:37,22,1,In a relationship,University Student,Yes,"Facebook, Instagram, YouTube, Discord",3,4,4,3,3,5,5,5,2,4,medium
+4/19/2022 10:24:04,17,4,Single,School Student,Yes,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",4,4,4,3,2,2,3,3,2,4,medium
+4/18/2022 22:39:40,27,0,Single,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Reddit, TikTok",5,2,5,5,4,4,5,3,3,4,medium
+5/12/2022 21:33:52,19,0,In a relationship,School Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",1,4,3,1,3,4,1,2,3,3,medium
+4/18/2022 20:53:37,18,1,Single,School Student,Yes,"Facebook, Instagram, YouTube, Discord, Pinterest",2,4,3,3,4,4,3,3,2,3,medium
+4/21/2022 1:33:04,21,0,In a relationship,University Student,Yes,"Facebook, Instagram, YouTube, Discord, Reddit, TikTok",3,4,5,3,4,5,3,5,2,5,high
+4/20/2022 16:11:22,37,1,Married,Salaried Worker,Yes,"Facebook, YouTube",1,5,4,4,2,5,4,5,2,3,medium
+5/14/2022 13:40:14,23,0,In a relationship,School Student,Yes,"Facebook, Instagram, YouTube, Discord",4,2,4,2,1,4,3,1,3,3,medium
+4/19/2022 0:18:43,33,0,Married,Salaried Worker,Yes,"Instagram, YouTube",3,2,4,3,1,2,1,1,1,2,low
+5/11/2022 20:13:54,21,1,In a relationship,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",2,3,3,2,3,5,5,3,3,4,medium
+4/19/2022 19:39:34,21,1,Single,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest",4,2,3,4,4,3,1,3,4,3,medium
+5/21/2022 22:33:02,32,1,Married,Salaried Worker,Yes,"Facebook, Instagram",3,5,5,3,4,5,5,5,1,5,high
+5/11/2022 23:59:06,22,1,Single,University Student,Yes,"Twitter, Instagram, TikTok",5,5,5,5,2,4,3,2,3,4,medium
+5/11/2022 22:21:54,21,1,Single,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",5,3,3,2,3,4,4,4,3,3,medium
+5/11/2022 21:47:23,25,0,Single,Salaried Worker,Yes,"Facebook, Instagram, YouTube, Snapchat",2,4,2,2,2,5,5,1,1,4,medium
+4/18/2022 19:18:47,21,0,In a relationship,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",2,5,3,2,2,2,5,2,3,5,high
+5/12/2022 8:41:58,23,0,Single,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",5,5,4,4,1,5,5,2,3,5,high
+4/18/2022 19:44:10,21,1,Single,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",3,4,4,2,3,3,3,2,2,4,medium
+5/12/2022 3:02:05,20,0,Single,University Student,Yes,"Instagram, YouTube, Discord, Reddit, Pinterest",3,4,3,2,5,5,5,5,5,4,medium
+5/13/2022 0:21:17,21,0,Single,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",5,5,5,2,4,4,5,4,4,3,medium
+5/12/2022 2:10:08,23,0,Single,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",3,3,4,2,5,5,5,5,5,3,medium
+4/19/2022 21:07:16,22,1,Single,University Student,Yes,Facebook,5,5,4,5,4,5,3,3,3,4,medium
+5/11/2022 21:55:45,21,0,Single,School Student,Yes,"Instagram, YouTube, Snapchat, Discord, Reddit",2,4,5,3,4,2,4,2,3,5,high
+4/20/2022 11:25:38,21,1,Single,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat",1,4,4,4,4,4,3,4,3,3,medium
+5/17/2022 17:12:19,35,1,Married,Salaried Worker,Yes,"Facebook, Instagram, YouTube",1,3,2,2,2,3,2,1,2,3,medium
+4/18/2022 20:22:02,28,0,Single,University Student,Yes,"Facebook, YouTube, Discord, Reddit",1,3,4,2,1,5,3,2,3,4,medium
+5/11/2022 22:44:23,27,0,Single,Salaried Worker,Yes,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest",2,5,5,2,1,1,3,2,4,2,low
+4/20/2022 19:24:38,45,0,Married,Salaried Worker,Yes,"Facebook, YouTube",2,3,2,3,2,3,2,3,2,3,medium
+4/19/2022 9:18:11,22,0,In a relationship,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat",2,3,5,2,2,4,4,2,3,4,medium
+4/21/2022 20:26:35,21,1,In a relationship,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat",5,4,4,4,3,5,3,4,2,5,high
+4/18/2022 21:24:02,22,0,Single,University Student,Yes,"Facebook, YouTube, Discord",2,4,4,2,1,3,1,1,3,4,medium
+5/11/2022 22:30:25,19,0,Single,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",0,3,2,1,4,4,2,2,3,2,low
+5/14/2022 7:11:35,50,0,Married,University Student,Yes,"Facebook, Instagram",1,1,1,1,1,1,1,1,1,1,low
+4/19/2022 1:59:08,24,0,Single,University Student,Yes,"Facebook, YouTube, Reddit",2,4,5,3,4,3,5,2,3,3,medium
+4/20/2022 0:07:24,21,1,In a relationship,University Student,Yes,"Facebook, Instagram, YouTube, Pinterest",3,2,2,1,2,4,3,3,3,5,high
+4/18/2022 23:19:30,25,0,Single,Salaried Worker,Yes,Reddit,1,3,1,1,1,2,5,1,3,3,medium
+5/12/2022 8:09:03,22,0,Single,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Pinterest",5,3,3,3,1,5,5,4,3,4,medium
+5/11/2022 22:57:00,24,0,Single,Salaried Worker,Yes,"YouTube, Discord",5,5,3,5,1,4,3,1,3,5,high
+5/12/2022 20:13:27,18,1,Single,School Student,Yes,"Facebook, Instagram, YouTube, Discord",3,2,1,1,1,3,2,1,3,2,low
+5/13/2022 1:20:52,22,1,Single,University Student,Yes,"Facebook, Instagram",2,3,2,2,5,5,3,5,2,3,medium
+5/11/2022 21:56:34,22,0,In a relationship,Salaried Worker,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",4,4,5,4,3,5,3,3,3,4,medium
+5/11/2022 20:19:55,26,1,In a relationship,Salaried Worker,Yes,"Facebook, Twitter, Instagram, YouTube",5,4,4,1,1,3,2,2,4,2,low
+4/19/2022 4:53:05,21,0,Single,University Student,Yes,"Instagram, YouTube, Snapchat, Discord, Reddit",5,5,5,3,2,4,4,2,3,5,high
+4/19/2022 19:13:19,22,0,In a relationship,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",1,5,4,3,1,4,5,1,1,3,medium
+5/22/2022 10:29:21,29,1,Married,Salaried Worker,Yes,"Facebook, YouTube",2,3,3,4,4,2,2,3,3,3,medium
+4/19/2022 20:42:18,47,0,Married,Salaried Worker,Yes,"Facebook, Instagram, Snapchat",1,2,4,3,2,3,2,3,3,3,medium
+5/14/2022 11:46:09,14,0,Single,School Student,Yes,"Instagram, Discord",2,3,4,2,1,3,2,1,3,3,medium
+5/11/2022 19:47:05,22,1,Married,University Student,Yes,"Facebook, Instagram, YouTube, Pinterest",2,5,4,2,2,3,2,1,3,3,medium
+4/19/2022 2:18:48,18,1,Single,University Student,Yes,"Facebook, YouTube, Reddit",3,4,3,3,1,5,5,4,3,4,medium
+4/19/2022 22:22:21,48,1,Married,Salaried Worker,Yes,"Facebook, Twitter, Instagram, YouTube, Pinterest",2,3,3,1,1,1,1,1,1,2,low
+4/24/2022 5:23:27,23,0,In a relationship,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, TikTok",5,4,4,3,1,4,4,4,2,4,medium
+5/11/2022 21:56:21,23,1,Single,University Student,Yes,"Facebook, Instagram, YouTube",3,2,4,1,2,4,3,4,2,3,medium
+5/11/2022 22:29:14,18,0,Single,School Student,Yes,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, Pinterest",5,5,4,1,3,4,3,1,3,3,medium
+4/19/2022 0:11:52,14,0,Single,School Student,Yes,Reddit,1,4,2,2,2,5,4,3,4,3,medium
+4/19/2022 0:28:13,14,1,Single,School Student,Yes,"Twitter, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",5,4,4,2,4,4,4,4,2,3,medium
+4/21/2022 19:19:40,22,0,Single,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat",1,3,3,2,3,4,5,4,4,4,medium
+5/11/2022 22:06:07,15,1,Single,School Student,Yes,"Instagram, YouTube, Discord, Pinterest",3,4,3,1,1,5,5,3,3,3,medium
+4/19/2022 2:27:30,28,0,Single,University Student,Yes,"Facebook, YouTube, Discord, Reddit",3,2,5,4,1,5,5,5,2,4,medium
+4/21/2022 4:54:21,26,1,Single,Salaried Worker,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest",2,3,2,1,1,1,1,1,1,1,low
+4/19/2022 23:28:22,48,0,Married,Salaried Worker,Yes,"Facebook, Instagram, YouTube",3,3,3,3,3,2,2,3,3,3,medium
+4/20/2022 0:00:36,48,0,Divorced,Salaried Worker,Yes,"Facebook, Twitter, Instagram, YouTube",0,5,1,1,3,4,4,1,3,2,low
+4/20/2022 12:16:04,47,0,Married,Salaried Worker,Yes,"Twitter, Instagram, YouTube, Reddit, TikTok",2,4,3,3,1,4,1,1,2,2,low
+5/11/2022 19:30:14,23,1,Single,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",5,5,5,3,3,5,4,3,4,4,medium
+5/21/2022 23:38:28,24,0,Single,Salaried Worker,Yes,"Facebook, Instagram, YouTube",2,3,4,3,4,3,3,4,2,4,medium
+5/11/2022 22:46:45,20,1,Single,University Student,Yes,"Facebook, Instagram, YouTube, Discord",4,3,3,3,3,3,3,3,3,3,medium
+4/19/2022 1:41:19,26,0,Single,Salaried Worker,Yes,Reddit,0,2,1,1,1,2,2,1,1,2,low
+5/12/2022 21:25:54,26,0,Single,Salaried Worker,Yes,"Facebook, Instagram, YouTube, Reddit",2,4,3,3,4,5,5,4,1,4,medium
+4/18/2022 20:15:31,23,0,In a relationship,University Student,Yes,"Facebook, Instagram, YouTube, Reddit",1,3,4,2,2,4,3,3,2,4,medium
+4/19/2022 23:53:34,50,0,Married,Salaried Worker,Yes,"Facebook, Twitter, YouTube",1,1,1,2,3,2,3,1,1,2,low
+5/14/2022 12:12:16,13,0,Single,School Student,Yes,"Twitter, Instagram, YouTube, Discord, Pinterest",5,4,4,3,2,2,2,2,3,4,medium
+4/18/2022 20:28:03,34,0,Divorced,Salaried Worker,Yes,"Facebook, Twitter, Instagram, YouTube",1,2,4,3,3,4,2,1,5,2,low
+5/11/2022 22:07:03,22,0,Single,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",5,5,3,2,1,5,3,1,3,4,medium
+5/11/2022 22:21:52,21,1,Single,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",5,3,4,5,3,5,5,5,5,4,medium
+4/18/2022 22:42:46,22,0,Married,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",5,3,2,1,1,4,3,1,3,3,medium
+5/11/2022 23:33:36,18,1,Single,School Student,Yes,"Facebook, YouTube",5,5,5,3,1,5,5,1,3,4,medium
+4/21/2022 10:40:52,21,0,Single,University Student,Yes,"YouTube, Discord, Reddit",5,5,1,1,1,1,1,1,3,1,low
+5/13/2022 1:06:00,21,0,Single,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",4,4,3,2,3,5,5,5,1,5,high
+4/21/2022 20:47:50,21,1,Single,University Student,Yes,"Facebook, YouTube",1,4,3,1,3,4,3,5,2,3,medium
+4/26/2022 22:13:41,22,1,Single,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",2,5,5,3,2,5,5,3,1,3,medium
+5/12/2022 19:15:46,24,1,In a relationship,University Student,Yes,"Facebook, Twitter, Instagram, YouTube, Reddit",5,5,2,4,4,5,4,3,2,2,low
+4/18/2022 20:38:00,35,1,Married,Salaried Worker,Yes,"Facebook, YouTube",3,4,4,3,4,3,4,4,4,3,medium
+5/12/2022 21:10:04,23,0,Single,University Student,Yes,"Facebook, Instagram, YouTube, Snapchat, Discord",5,4,4,3,2,5,3,4,3,4,medium
