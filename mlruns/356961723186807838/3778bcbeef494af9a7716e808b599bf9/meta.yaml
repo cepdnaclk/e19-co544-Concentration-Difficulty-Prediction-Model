@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vidurayashan/Library/Mobile%20Documents/com~apple~CloudDocs/6thSem/CO544/MachineLearningProject/Repo/e19-co544-Concentration-Difficulty-Prediction-Model/mlruns/356961723186807838/3778bcbeef494af9a7716e808b599bf9/artifacts
+end_time: 1719350037897
+entry_point_name: ''
+experiment_id: '356961723186807838'
+lifecycle_stage: active
+run_id: 3778bcbeef494af9a7716e808b599bf9
+run_name: Normal_withot_Sex_Relationship Status_Q8
+run_uuid: 3778bcbeef494af9a7716e808b599bf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719350035262
+status: 3
+tags: []
+user_id: vidurayashan

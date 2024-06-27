@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vidurayashan/Library/Mobile%20Documents/com~apple~CloudDocs/6thSem/CO544/MachineLearningProject/Repo/e19-co544-Concentration-Difficulty-Prediction-Model/mlruns/356961723186807838/0f3f76c6b28a4bc8944989d57111c681/artifacts
+end_time: 1719351162367
+entry_point_name: ''
+experiment_id: '356961723186807838'
+lifecycle_stage: active
+run_id: 0f3f76c6b28a4bc8944989d57111c681
+run_name: Smote_without_Sex_Q8
+run_uuid: 0f3f76c6b28a4bc8944989d57111c681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719351159872
+status: 3
+tags: []
+user_id: vidurayashan
