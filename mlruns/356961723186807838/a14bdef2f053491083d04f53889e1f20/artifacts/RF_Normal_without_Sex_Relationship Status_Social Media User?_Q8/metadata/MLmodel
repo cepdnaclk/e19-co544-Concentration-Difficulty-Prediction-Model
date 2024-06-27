@@ -1,0 +1,20 @@
+artifact_path: RF_Normal_without_Sex_Relationship Status_Social Media User?_Q8
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.0
+mlflow_version: 2.14.1
+model_size_bytes: 37849
+model_uuid: e39a6f6dfab34618a4c4f33284061e9a
+run_id: a14bdef2f053491083d04f53889e1f20
+utc_time_created: '2024-06-25 21:18:29.016611'

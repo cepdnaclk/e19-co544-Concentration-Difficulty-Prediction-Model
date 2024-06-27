@@ -1,0 +1,20 @@
+artifact_path: RF_Smote_without_Sex_Q8
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.0
+mlflow_version: 2.14.1
+model_size_bytes: 88645
+model_uuid: a5b66211a9c148a0ac928b16f91d6e10
+run_id: 0f3f76c6b28a4bc8944989d57111c681
+utc_time_created: '2024-06-25 21:32:41.211635'

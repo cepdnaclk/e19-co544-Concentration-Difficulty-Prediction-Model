@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vidurayashan/Library/Mobile%20Documents/com~apple~CloudDocs/6thSem/CO544/MachineLearningProject/Repo/e19-co544-Concentration-Difficulty-Prediction-Model/mlruns/356961723186807838/d5af742e2f9543518a9bb8b1ffea6ea1/artifacts
+end_time: 1719350905915
+entry_point_name: ''
+experiment_id: '356961723186807838'
+lifecycle_stage: active
+run_id: d5af742e2f9543518a9bb8b1ffea6ea1
+run_name: Smote
+run_uuid: d5af742e2f9543518a9bb8b1ffea6ea1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719350903544
+status: 3
+tags: []
+user_id: vidurayashan
