@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1719368389100
+current_stage: None
+description: ''
+last_updated_timestamp: 1719368389100
+name: model
+run_id: 2fdcd696ff0f44c88c741f7da0f22911
+run_link: ''
+source: file:///Users/vidurayashan/Library/Mobile%20Documents/com~apple~CloudDocs/6thSem/CO544/MachineLearningProject/Repo/e19-co544-Concentration-Difficulty-Prediction-Model/mlruns/356961723186807838/2fdcd696ff0f44c88c741f7da0f22911/artifacts/RF_Smote_boarderline_1_without_sex_Q8
+status: READY
+status_message: null
+storage_location: file:///Users/vidurayashan/Library/Mobile%20Documents/com~apple~CloudDocs/6thSem/CO544/MachineLearningProject/Repo/e19-co544-Concentration-Difficulty-Prediction-Model/mlruns/356961723186807838/2fdcd696ff0f44c88c741f7da0f22911/artifacts/RF_Smote_boarderline_1_without_sex_Q8
+user_id: null
+version: 1

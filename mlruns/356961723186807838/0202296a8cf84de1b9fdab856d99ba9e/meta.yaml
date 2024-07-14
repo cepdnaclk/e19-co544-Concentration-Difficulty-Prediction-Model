@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vidurayashan/Library/Mobile%20Documents/com~apple~CloudDocs/6thSem/CO544/MachineLearningProject/Repo/e19-co544-Concentration-Difficulty-Prediction-Model/mlruns/356961723186807838/0202296a8cf84de1b9fdab856d99ba9e/artifacts
+end_time: 1719349731046
+entry_point_name: ''
+experiment_id: '356961723186807838'
+lifecycle_stage: active
+run_id: 0202296a8cf84de1b9fdab856d99ba9e
+run_name: Normal_withot_Sex_Social Media User?_Q8
+run_uuid: 0202296a8cf84de1b9fdab856d99ba9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719349728450
+status: 3
+tags: []
+user_id: vidurayashan

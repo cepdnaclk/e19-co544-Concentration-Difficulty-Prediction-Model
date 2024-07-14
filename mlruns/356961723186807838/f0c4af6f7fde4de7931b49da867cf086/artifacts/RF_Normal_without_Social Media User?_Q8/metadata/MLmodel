@@ -1,0 +1,20 @@
+artifact_path: RF_Normal_without_Social Media User?_Q8
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.0
+mlflow_version: 2.14.1
+model_size_bytes: 177025
+model_uuid: f3ff6e2ec8ac4776b92c8e485ca26cfd
+run_id: f0c4af6f7fde4de7931b49da867cf086
+utc_time_created: '2024-06-25 21:01:42.408085'

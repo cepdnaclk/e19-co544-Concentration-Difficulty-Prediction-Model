@@ -1,0 +1,20 @@
+artifact_path: RF_Smote_boarderline_2
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.0
+mlflow_version: 2.14.1
+model_size_bytes: 31611
+model_uuid: 3bcfdc4b0bae443fbc8d334201d98ad6
+run_id: a9a7d5b5dfb84f1fb9ccccb4f174ee12
+utc_time_created: '2024-06-26 02:37:49.815528'
